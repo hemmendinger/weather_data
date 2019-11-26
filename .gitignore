@@ -1,3 +1,10 @@
+# Custom
+# Better to not includ Pipfile.lock if multiple versions of Python are used
+Pipfile.lock
+*.csv
+*.fwf
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
