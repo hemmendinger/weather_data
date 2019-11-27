@@ -3,7 +3,7 @@
 Pipfile.lock
 *.csv
 *.fwf
-
+.~*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
